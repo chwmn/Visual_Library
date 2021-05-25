@@ -18,6 +18,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("sortByPageOrder", sortByPageOrder);
 
+  const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
+
+  module.exports = function (eleventyConfig) {
+    eleventyConfig.addPlugin(lazyImagesPlugin);
+  };
+
   return {
     dir: {
       includes: "_includes",
