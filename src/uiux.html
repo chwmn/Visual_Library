@@ -1,0 +1,13 @@
+---
+layout: default.html
+pageTitle: UI/UX
+tags: nav
+order: 2
+---
+
+<main>
+  <ul class="container">
+    {% assign display = links.items | where:"category", "UI/UX" %} {% for item in
+    display %} {% include card.html %} {% endfor %}
+  </ul>
+</main>

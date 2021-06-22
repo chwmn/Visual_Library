@@ -2,37 +2,37 @@
   "items": [
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat1",
+      "category": "",
       "imageUrl": "/images/u_wabaki_1.png"
     },
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat1",
+      "category": "",
       "imageUrl": "/images/u_wabaki_2.png"
     },
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat2",
+      "category": "",
       "imageUrl": "/images/u_wabaki_3.png"
     },
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat2",
+      "category": "",
       "imageUrl": "/images/u_wabaki_4.png"
     },
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat3",
+      "category": "",
       "imageUrl": "/images/u_wabaki_5.png"
     },
     {
       "artist": "Kenneth Vanoverbeke, @u_wabaki",
-      "category": "cat3",
+      "category": "",
       "imageUrl": "/images/u_wabaki_6.png"
     },
     {
       "artist": "Zac Jacobson, @zacjacobson",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/zacjacobson_1.png"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "artist": "Zac Jacobson, @zacjacobson",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/zacjacobson_8.png"
     },
     {
@@ -87,142 +87,142 @@
     },
     {
       "artist": "Jordon Nassar, @jordonnassar",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jordon_nassar_1.png"
     },
     {
       "artist": "Jordon Nassar, @jordonnassar",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jordon_nassar_2.png"
     },
     {
       "artist": "Jordon Nassar, @jordonnassar",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jordon_nassar_3.png"
     },
     {
       "artist": "Jordon Nassar, @jordonnassar",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jordon_nassar_4.png"
     },
     {
       "artist": "John McAllister",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/john_mcallister_1.png"
     },
     {
       "artist": "John McAllister",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/john_mcallister_2.png"
     },
     {
       "artist": "John McAllister",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/john_mcallister_3.png"
     },
     {
       "artist": "John McAllister",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/john_mcallister_4.png"
     },
     {
       "artist": "Sophie Treppendahl, @sophie.treppendahl",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/sophie_treppendahl_1.png"
     },
     {
       "artist": "Sophie Treppendahl, @sophie.treppendahl",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/sophie_treppendahl_2.png"
     },
     {
       "artist": "Sophie Treppendahl, @sophie.treppendahl",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/sophie_treppendahl_3.png"
     },
     {
       "artist": "Sophie Treppendahl, @sophie.treppendahl",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/sophie_treppendahl_4.png"
     },
     {
       "artist": "Mikey Yates, @mikey_yates",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/mikey_yates_1.png"
     },
     {
       "artist": "Mikey Yates, @mikey_yates",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/mikey_yates_2.png"
     },
     {
       "artist": "Mikey Yates, @mikey_yates",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/mikey_yates_3.png"
     },
     {
       "artist": "Mikey Yates, @mikey_yates",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/mikey_yates_4.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_1.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_2.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_3.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_4.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_5.png"
     },
     {
       "artist": "Benjamin Winslow, @bwdb",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ben_winslow_6.png"
     },
     {
       "artist": "Harry Stooshinoff, @harrystooshinoff",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/harry_stooshinoff_1.png"
     },
     {
       "artist": "Harry Stooshinoff, @harrystooshinoff",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/harry_stooshinoff_2.png"
     },
     {
       "artist": "Nat Ot&#225lora, @papelnco",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/nat_otalora_1.png"
     },
     {
       "artist": "Nat Ot&#225lora, @papelnco",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/nat_otalora_2.png"
     },
     {
       "artist": "Nat Ot&#225lora, @papelnco",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/nat_otalora_3.png"
     },
     {
       "artist": "Nat Ot&#225lora, @papelnco",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/nat_otalora_4.png"
     },
     {
@@ -262,17 +262,17 @@
     },
     {
       "artist": "Paulo Puck, @fluff.faun",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/paolo_puck_1.png"
     },
     {
       "artist": "Paulo Puck, @fluff.faun",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/paolo_puck_2.png"
     },
     {
       "artist": "Paulo Puck, @fluff.faun",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/paolo_puck_3.png"
     },
     {
@@ -367,17 +367,17 @@
     },
     {
       "artist": "Green River Project, @greenriverprojectllc",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/green_river_project_1.png"
     },
     {
       "artist": "Green River Project, @greenriverprojectllc",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/green_river_project_2.png"
     },
     {
       "artist": "Green River Project, @greenriverprojectllc",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/green_river_project_3.png"
     },
     {
@@ -412,27 +412,27 @@
     },
     {
       "artist": "Cheyenne Woodward, @cheyennewo.odward",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/cheyenne_woodward_1.png"
     },
     {
       "artist": "Cheyenne Woodward, @cheyennewo.odward",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/cheyenne_woodward_2.png"
     },
     {
       "artist": "Cheyenne Woodward, @cheyennewo.odward",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/cheyenne_woodward_3.png"
     },
     {
       "artist": "Cheyenne Woodward, @cheyennewo.odward",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/cheyenne_woodward_4.png"
     },
     {
       "artist": "Cheyenne Woodward, @cheyennewo.odward",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/cheyenne_woodward_5.png"
     },
     {
@@ -587,17 +587,17 @@
     },
     {
       "artist": "Jonas Wood, @jonasbrwood",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jonas_wood_1.png"
     },
     {
       "artist": "Jonas Wood, @jonasbrwood",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jonas_wood_2.png"
     },
     {
       "artist": "Jonas Wood, @jonasbrwood",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/jonas_wood_3.png"
     },
     {
@@ -632,7 +632,7 @@
     },
     {
       "artist": "Tom Noon, @nonono.design",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/tom_noon_1.png"
     },
     {
@@ -792,7 +792,7 @@
     },
     {
       "artist": "By Way of Dallas, @bywayofdallas",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/by_way_of_dallas_1.png"
     },
     {
@@ -812,17 +812,17 @@
     },
     {
       "artist": "The Hundreds, @thehundreds",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/the_hundreds_1.png"
     },
     {
       "artist": "The Hundreds, @thehundreds",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/the_hundreds_2.png"
     },
     {
       "artist": "The Hundreds, @thehundreds",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/the_hundreds_3.png"
     },
     {
@@ -837,12 +837,12 @@
     },
     {
       "artist": "Andres Serrano",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/andres_serrano_1.png"
     },
     {
       "artist": "Andres Serrano",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/andres_serrano_2.png"
     },
     {
@@ -867,32 +867,32 @@
     },
     {
       "artist": "Rae Klein, @rae_klein",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/rae_klein_1.png"
     },
     {
       "artist": "Rae Klein, @rae_klein",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/rae_klein_2.png"
     },
     {
       "artist": "Rae Klein, @rae_klein",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/rae_klein_3.png"
     },
     {
       "artist": "Busybuilding, @busybuilding",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/busy_building_1.png"
     },
     {
       "artist": "Busybuilding, @busybuilding",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/busy_building_2.png"
     },
     {
       "artist": "Busybuilding, @busybuilding",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/busy_building_3.png"
     },
     {
@@ -912,12 +912,12 @@
     },
     {
       "artist": "Ricardo Imperial, @morrre.dsgn",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/ricardo_imperial_1.png"
     },
     {
       "artist": "Ricardo Imperial, @morrre.dsgn",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/ricardo_imperial_2.png"
     },
     {
@@ -927,27 +927,27 @@
     },
     {
       "artist": "Edoardo Benaglia, @id.a_",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/edoardo_benaglia_1.png"
     },
     {
       "artist": "NFTYPE, @nftype.art",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/nftype_1.png"
     },
     {
       "artist": "NFTYPE, @nftype.art",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/nftype_2.png"
     },
     {
       "artist": "Tristan & Rick, @tric.studio",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/tric_studio_1.png"
     },
     {
       "artist": "Tristan & Rick, @tric.studio",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/tric_studio_2.png"
     },
     {
@@ -972,12 +972,12 @@
     },
     {
       "artist": "SociedadAn&#243nima, @sociedadanonima.mx",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/sociedad_anonima_1.png"
     },
     {
       "artist": "SociedadAn&#243nima, @sociedadanonima.mx",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/sociedad_anonima_2.png"
     },
     {
@@ -997,13 +997,18 @@
     },
     {
       "artist": "Otherway London, @otherwaylondon",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/otherway_london_1.png"
     },
     {
       "artist": "Brian Sindler, @brian_sindler",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/brian_sindler_1.png"
+    },
+    {
+      "artist": "Brian Sindler, @brian_sindler",
+      "category": "Painting",
+      "imageUrl": "/images/brian_sindler_2.png"
     },
     {
       "artist": "House of Folk, @houseoffolk_",
@@ -1012,17 +1017,17 @@
     },
     {
       "artist": "Anthropologi, @p.roduct",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/anthropologie_1.png"
     },
     {
       "artist": "Ponce Berga, @ponceberga",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/ponce_berga_1.png"
     },
     {
       "artist": "Elia Laourda, @elia_laourda",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/elia_laourda_1.png"
     },
     {
@@ -1037,57 +1042,57 @@
     },
     {
       "artist": "John Singer Sargent",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/john_singer_sargent_1.png"
     },
     {
       "artist": "Takako Copeland, @takakodraws",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/takako_copeland_1.png"
     },
     {
       "artist": "Henning Kj&#230rnulf, @paddy.designs",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/henning_kjærnulf⁠_1.png"
     },
     {
       "artist": "Katerinaa Belaya, @katerinaa_belaya",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/katerinaa_belaya_1.png"
     },
     {
       "artist": "Very Nice Studio, @verynice.studio",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/very_nice_studio_1.png"
     },
     {
       "artist": "Violaine & J&#233r&#233my, @violaineetjeremy",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/violaine_&_jeremy_1.png"
     },
     {
       "artist": "Jens Nilsson, @jensnilss.n",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/jens_nilsson_1.png"
     },
     {
       "artist": "Jens Nilsson, @jensnilss.n",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/jens_nilsson_2.png"
     },
     {
       "artist": "Jens Nilsson, @jensnilss.n",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/jens_nilsson_3.png"
     },
     {
       "artist": "Jens Nilsson, @jensnilss.n",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/jens_nilsson_4.png"
     },
     {
       "artist": "V&#228in&#246 Blomstedt, @krasniykon",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/vaino_blomstedt_1.png"
     },
     {
@@ -1097,12 +1102,12 @@
     },
     {
       "artist": "Pekka Halonen, @krasniykon",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/pekka_halonen_1.png"
     },
     {
       "artist": "Unifikat Studio, @unifikat",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/unifikat_1.png"
     },
     {
@@ -1112,17 +1117,17 @@
     },
     {
       "artist": "Aleksandr Maksimov, @maksimovstudio",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/aleksandr_maksimov_1.png"
     },
     {
       "artist": "Melanie Thompson, @melaniethompsonart",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/melanie_thompson_1.png"
     },
     {
       "artist": "Ryan S. Brown, @ryansbrown",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/ryan_s_brown_1.png"
     },
     {
@@ -1137,22 +1142,22 @@
     },
     {
       "artist": "Marc R. Hanson, @marcrhanson",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/marc_r_hanson_1.png"
     },
     {
       "artist": "Marc R. Hanson, @marcrhanson",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/marc_r_hanson_2.png"
     },
     {
       "artist": "Marc R. Hanson, @marcrhanson",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/marc_r_hanson_3.png"
     },
     {
       "artist": "OMSE, @omse.co",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/omse_1.png"
     },
     {
@@ -1162,7 +1167,7 @@
     },
     {
       "artist": "Akseli Gallen-Kallela, @krasniykon",
-      "category": "",
+      "category": "Painting",
       "imageUrl": "/images/akseli_gallen_kallela_1.png"
     },
     {
@@ -1172,7 +1177,7 @@
     },
     {
       "artist": "Halo Lab, @halolabteam",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/halo_lab_1.png"
     },
     {
@@ -1182,17 +1187,17 @@
     },
     {
       "artist": "WEDZICKA, @wedzicka_com",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/wedzicka_1.png"
     },
     {
       "artist": "Jinsoo Kim, @jinsookimh",
-      "category": "",
+      "category": "Furniture",
       "imageUrl": "/images/jinsoo_kim_1.png"
     },
     {
       "artist": "Orix Agency, @orix.agency",
-      "category": "",
+      "category": "UI/UX",
       "imageUrl": "/images/orix_agency_1.png"
     },
     {
@@ -1217,12 +1222,12 @@
     },
     {
       "artist": "Studio MPLS, @studiompls",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/studio_mpls_1.png"
     },
     {
       "artist": "Studio MPLS, @studiompls",
-      "category": "",
+      "category": "Branding",
       "imageUrl": "/images/studio_mpls_2.png"
     },
     {
