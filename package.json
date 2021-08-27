@@ -8,7 +8,7 @@
     "watch:eleventy": "eleventy --serve",
     "watch:sass": "npm run sass -- --watch",
     "start": "npm-run-all sass --parallel watch:*",
-    "build": "npm run sass && eleventy"
+    "construct": "npm run sass && eleventy"
   },
   "repository": {
     "type": "git",
