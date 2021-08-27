@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/chulminh/MoodBoard#readme",
   "dependencies": {
+    "@iarna/toml": "^2.2.5",
     "liquid": "^5.1.1",
     "liquidjs": "^9.20.1",
     "sass": "^1.34.0",
