@@ -1,7 +1,9 @@
 footer {
   display: flex;
   justify-content: flex-end;
-  margin: 1% 5% 1% 1%;
+  padding: 20px;
+  height: 70px;
+  box-sizing: border-box;
 
   ul {
     display: flex;
