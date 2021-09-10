@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: categories.html
 pageTitle: Painting
 tags: nav
 order: 2
@@ -7,7 +7,7 @@ order: 2
 
 <main>
   <ul class="container">
-    {% assign display = links.items | where:"category", "Painting" %} {% for item in
-    display %} {% include card.html %} {% endfor %}
+    {% assign display = links.items | where:"category", "Painting" %} {% for
+    item in display %} {% include card.html %} {% endfor %}
   </ul>
 </main>
