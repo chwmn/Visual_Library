@@ -1,14 +1,13 @@
 ---
 layout: default.html
 pageTitle: ~ All ~
-tags: ["nav", "home"]
-order: 1
-pageNum: "01"
+tags: home
+pageNum: "05"
 ---
 
 <main>
   <ul class="container">
     {% assign alphabetOrder = links.items | sort:"imageUrl" %} {% for item in
-    links.items limit:50 %} {% include card.html %} {% endfor %}
+    links.items offset:200 limit:50 %} {% include card.html %} {% endfor %}
   </ul>
 </main>

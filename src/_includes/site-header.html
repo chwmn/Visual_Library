@@ -10,6 +10,41 @@
     ranging from paintings to furniture.
   </p>
 
+  <section class="pgNav">
+    <h3>{{ pageNum }} / 05</h3>
+    <div class="arrows">
+      {% assign previousPost = collections.home | getPreviousCollectionItem:
+      page %} {% assign nextPost = collections.home | getNextCollectionItem:
+      page %}
+      <a
+        href="{{ previousPost.url }}"
+        {%
+        if
+        previousPost
+        %}
+        style="cursor: pointer"
+        {%
+        endif
+        %}
+      >
+        <div class="arrowLeft"></div>
+      </a>
+      <a
+        href="{{ nextPost.url }}"
+        {%
+        if
+        nextPost
+        %}
+        style="cursor: pointer"
+        {%
+        endif
+        %}
+      >
+        <div class="arrowRight"></div>
+      </a>
+    </div>
+  </section>
+
   <div class="logo">
     <img src="/images/name.svg" alt="" />
   </div>

@@ -19,3 +19,76 @@ main {
   margin: 5px 0 0 0;
   padding: 0;
 }
+
+.pgNav {
+  display: flex;
+  width: 150px;
+  position: relative;
+  height: 50px;
+  align-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  h3 {
+    text-align: center;
+    width: 90px;
+  }
+}
+
+.arrows {
+  display: flex;
+  width: 90px;
+  margin: 0 auto;
+  height: 15px;
+  justify-content: space-between;
+
+  a {
+    cursor: not-allowed;
+  }
+}
+
+.arrowLeft {
+  display: block;
+  content: "";
+  width: 24px;
+  height: 1px;
+  background-color: black;
+  top: 6px;
+  position: relative;
+}
+
+.arrowLeft:before {
+  display: block;
+  content: "";
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 14px;
+  height: 14px;
+  transform: rotate(45deg);
+  top: -7px;
+  left: 2px;
+  position: absolute;
+}
+
+.arrowRight {
+  display: block;
+  content: "";
+  width: 24px;
+  height: 1px;
+  background-color: black;
+  top: 6px;
+  position: relative;
+}
+
+.arrowRight:before {
+  display: block;
+  content: "";
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  width: 14px;
+  height: 14px;
+  transform: rotate(45deg);
+  top: -7px;
+  right: 2px;
+  position: absolute;
+}
